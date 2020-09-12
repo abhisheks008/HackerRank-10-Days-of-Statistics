@@ -1,3 +1,5 @@
+# Day 2 : 10 Days of Statistics Solution of HackerRank
+
 ## Day 2: Basic Probability
   Task: In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that their sum will be at most 9.
 
@@ -44,3 +46,5 @@
   = 51/126
   
   = 17/42
+  
+  # abhisheks008
